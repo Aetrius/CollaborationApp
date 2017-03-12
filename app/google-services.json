@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "954091307008",
+    "firebase_url": "https://teamcollaborationapp.firebaseio.com",
+    "project_id": "teamcollaborationapp",
+    "storage_bucket": "teamcollaborationapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:954091307008:android:78a0187057c359f2",
+        "android_client_info": {
+          "package_name": "com.tylerbennet.software.teamcollaborationapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "954091307008-53b3tv7sfnaf3c32c0jogc42a74amq2v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tylerbennet.software.teamcollaborationapp",
+            "certificate_hash": "a6d91c145f676cc2af4ad9fa4c53617b21a5994d"
+          }
+        },
+        {
+          "client_id": "954091307008-hpbq36j7tg4ffek31b8pa6kcaqdemh9p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZX3RDayq32vMO8hHdfKTOhoePiDHC690"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "954091307008-hpbq36j7tg4ffek31b8pa6kcaqdemh9p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
